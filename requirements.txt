@@ -1,0 +1,4 @@
+plotnine==0.12.1
+pandas==2.0.2
+pyarrow==12.0.0
+jupyterlab
